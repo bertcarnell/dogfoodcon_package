@@ -1,0 +1,16 @@
+Package: dogfoodconpackage
+Title: A Demonstration Package for DogFoodCon
+Version: 0.0.1
+Authors@R: 
+      person(given = 'Rob',
+             family = 'Carnell',
+             role = c('aut', 'cre'),
+             email = 'bertcarnell@gmail.com')
+Description: This package demonstrates the R package development process
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    covr,
+    testthat
+RoxygenNote: 6.1.1
